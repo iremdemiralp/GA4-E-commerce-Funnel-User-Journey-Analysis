@@ -28,6 +28,4 @@ The goal was to visualize key drop-off points and identify opportunities for con
 - Power BI
 - GA4 Public Sample Dataset
 
-##  Files
-- SQL Query: `https://console.cloud.google.com/bigquery?sq=261824244256:d62bdeb26cb74ddda0c4ff5b8c64c79b`
 > I welcome any feedback. Feel free to reach out if you want to discuss the project or explore collaboration opportunities. 🌱  
